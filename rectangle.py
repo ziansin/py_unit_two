@@ -1,5 +1,5 @@
 # In the space below, create a variable called length and give it a value of 5
-
+print("hello my world")
 # In the space below, create a variable called width and give it a value of 9
 
 # Calculate the area of the rectangle (length times width) and assign the answer to a variable called area.
