@@ -2,4 +2,4 @@ print(2 + 3)
 print(2 - 3)
 print(2 * 3)
 print(2 ** 3)
-print
+print(3 ** 2)
